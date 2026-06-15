@@ -15,3 +15,7 @@ h2 {
  p {
     font-weight: bold;
  }
+ css
+.text-center {
+    text-align: center;
+}
