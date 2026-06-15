@@ -24,3 +24,11 @@ The Coding Club website is a landing page for parents and children looking for a
 3. Sign up form
 4. Contact section
 5. Footer
+## Markdown practice
+
+`line code`
+
+Building  a table  with markdown
+--------------------------------------------------------------------------------
+h1 text  bold text  inline code
+42        400        97
